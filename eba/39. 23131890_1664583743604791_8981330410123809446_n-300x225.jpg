@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+	 
+		<meta charset="utf-8">
+		
+		<!-- Title -->
+		<title>Suspended | Hosted by WhoGoHost</title> 
+		
+		<!-- CSS -->
+		 
+		
+		<!-- Jquery and scripts are loaded at the bottom of the page -->
+		
+<link rel="stylesheet" type="text/css" href="http://whogohost.com/landingPage/index.css" media="all">
+<style>
+<!--
+div#content{background-position: center -50px;}
+div#title{height:200px;}
+//-->
+</style>
+</head>
+<body>
+	
+		<div id="wrapper">
+		
+			<!-- Header -->
+			<div id="header">			
+				
+			</div>
+			
+			<div id="content" class="clearfix">
+			
+				<!-- Main title -->
+				<div id="title">
+					<img src="http://www.whogohost.com/landingPage/warning.png" width= alt="Web Hosting in Nigeria, .ng domain registration and other domain name registrations in Nigeria">
+					<h2>This Account has been <!-- Or put SITE URL instead of this site --></h2>
+					<h3>Suspended</h3>
+					<p><strong><a href="http://www.whogohost.com/host/knowledgebase/118/Why-was-my-account-suspended.html">Click here if you are the owner of this account.</a></strong>
+					
+				</div>
+			
+				
+				<!-- Left-hand Column -->
+				<div id="left">
+					<h4>Quote of the Day</h4>
+					<div style="font-size:1.3em; font-weight:bold; padding-right:5px">
+					<script language="JavaScript1.1" src="http://whogohost.com/landingPage/quote.js">
+
+					/*
+					Motivational quotes script
+					By JavaScript Kit (http://javascriptkit.com)
+					Over 400+ free scripts here!
+					*/
+
+					</script>
+					</div>
+					
+				</div>
+				
+				<!-- Right-hand Column -->
+				<div id="right">
+				
+					<h4>Powered by</h4>
+					<p><a href="http://www.whogohost.com/" target="_blank"><img alt="Web Hosting in Nigeria, .ng domain registration and other domain name registrations in Nigeria" src="http://www.whogohost.com/images/logo.png"/></a>
+				<br/><a href="http://www.whogohost.com" target="_blank" title="Web Hosting in Nigeria"><b>Get reliable domain name registrations and web hosting today</b></a></p> </div>
+				
+				
+			</div>
+			
+			<!-- Footer -->
+			
+			<div id="footer" class="clearfix">
+				<p><a href="http://www.whogohost.com" target="_blank" title="Web Hosting in Nigeria">Web Hosting in Nigeria, .ng domain registration and other domain name registrations in Nigeria</a></p>
+			</div>
+			
+		</div>
+	
+		<!-- Scripts -->
+		
+		
+		
+		
+		
+	</body>
+</html>
